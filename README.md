@@ -1,0 +1,2 @@
+# FreeCodeCampScientificComputingWithPythonMyResolutions
+FreeCodeCamp Challenges Resolutions From Scientific Computing with Python
